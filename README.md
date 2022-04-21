@@ -1,2 +1,2 @@
 # COP1500
-Intergration Prject
+Intergration Project
