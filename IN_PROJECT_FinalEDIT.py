@@ -1,10 +1,9 @@
-"""
+
 # Artyom Teruni
 # Itemized list of most or all guitar chords,
 # Useful for writing of custom chords
 # Song training
 # Later implementing piano chords and time signatures
-"""
 
 numberOne = int(input("Pick a number"))
 print("This is an example of the exponent operator, 2 raised to the power of your input: ", 2 ** numberOne)
